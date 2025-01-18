@@ -34,9 +34,9 @@ namespace ExamM320
         public List<Team> GetInvalidTeams()
         {
             return _contestants.Where(contestant => contestant.GetType() == typeof(Team))
-                .Select(contestant => contestant as Team)
-                .Where(team => !team.IsValidTeamSize)
-                .ToList();
+                               .Select(contestant => contestant as Team)
+                               .Where(team => !team.IsValidTeamSize)
+                               .ToList();
         }
     }
 }

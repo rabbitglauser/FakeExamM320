@@ -1,0 +1,15 @@
+C:\Users\samue\RiderProjects\FakeExam320\FakeExam320\bin\Debug\net8.0\FakeExam320.exe
+C:\Users\samue\RiderProjects\FakeExam320\FakeExam320\bin\Debug\net8.0\FakeExam320.deps.json
+C:\Users\samue\RiderProjects\FakeExam320\FakeExam320\bin\Debug\net8.0\FakeExam320.runtimeconfig.json
+C:\Users\samue\RiderProjects\FakeExam320\FakeExam320\bin\Debug\net8.0\FakeExam320.dll
+C:\Users\samue\RiderProjects\FakeExam320\FakeExam320\bin\Debug\net8.0\FakeExam320.pdb
+C:\Users\samue\RiderProjects\FakeExam320\FakeExam320\obj\Debug\net8.0\FakeExam320.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\samue\RiderProjects\FakeExam320\FakeExam320\obj\Debug\net8.0\FakeExam320.AssemblyInfoInputs.cache
+C:\Users\samue\RiderProjects\FakeExam320\FakeExam320\obj\Debug\net8.0\FakeExam320.AssemblyInfo.cs
+C:\Users\samue\RiderProjects\FakeExam320\FakeExam320\obj\Debug\net8.0\FakeExam320.csproj.CoreCompileInputs.cache
+C:\Users\samue\RiderProjects\FakeExam320\FakeExam320\obj\Debug\net8.0\FakeExam320.sourcelink.json
+C:\Users\samue\RiderProjects\FakeExam320\FakeExam320\obj\Debug\net8.0\FakeExam320.dll
+C:\Users\samue\RiderProjects\FakeExam320\FakeExam320\obj\Debug\net8.0\refint\FakeExam320.dll
+C:\Users\samue\RiderProjects\FakeExam320\FakeExam320\obj\Debug\net8.0\FakeExam320.pdb
+C:\Users\samue\RiderProjects\FakeExam320\FakeExam320\obj\Debug\net8.0\FakeExam320.genruntimeconfig.cache
+C:\Users\samue\RiderProjects\FakeExam320\FakeExam320\obj\Debug\net8.0\ref\FakeExam320.dll
