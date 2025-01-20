@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("FakeExam320")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d579107dbfe0491d64df9b24937c8513f7306ee5")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ba8156165f9ba791349b58ebb3ab38daf82234e9")]
 [assembly: System.Reflection.AssemblyProductAttribute("FakeExam320")]
 [assembly: System.Reflection.AssemblyTitleAttribute("FakeExam320")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

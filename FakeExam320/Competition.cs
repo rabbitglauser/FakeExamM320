@@ -18,6 +18,7 @@ namespace ExamM320
             Partners = new List<Partner>();
         }
 
+        // subset
         public bool SetWinner(Contestant contestant)
         {
             if (_contestants.Contains(contestant))
